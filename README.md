@@ -1,5 +1,9 @@
 # 🚀 NASA Astronomy Picture of the Day – Streamlit App
 
+🌐 **Live App:**  
+https://mainpy-mtazdkcnlzkk6gddt4uhzi.streamlit.app/
+
+---
 This is a simple web app built with Streamlit that fetches and displays NASA’s Astronomy Picture of the Day (APOD) using
 the NASA API.
 
