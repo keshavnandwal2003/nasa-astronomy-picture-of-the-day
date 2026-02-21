@@ -4,6 +4,7 @@ venv/
 env/
 ENV/
 
+.devcontainer/
 # Environment variables
 .env
 .env.*
